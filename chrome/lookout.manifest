@@ -1,0 +1,8 @@
+content lookout                 lookout/content/lookout/
+
+locale  colorfolders  en-US     en-US/locale/en-US/lookout/
+
+skin    lookout classic/1.0     lookout/skin/lookout/
+
+overlay chrome://messenger/content/mailWindowOverlay.xul chrome://lookout/content/lookout.xul
+
