@@ -1,6 +1,6 @@
 content lookout                 lookout/content/lookout/
 
-locale  colorfolders  en-US     en-US/locale/en-US/lookout/
+locale  colorfolders  fr     fr/locale/fr/lookout/
 
 skin    lookout classic/1.0     lookout/skin/lookout/
 
